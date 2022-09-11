@@ -1,0 +1,6 @@
+"Values","Count","Group","Name"
+"System.Collections.ArrayList","2","System.Collections.ObjectModel.Collection`1[System.Management.Automation.PSObject]",""
+"System.Collections.ArrayList","28","System.Collections.ObjectModel.Collection`1[System.Management.Automation.PSObject]","not enough data"
+"System.Collections.ArrayList","8","System.Collections.ObjectModel.Collection`1[System.Management.Automation.PSObject]","progress decreased over time"
+"System.Collections.ArrayList","39","System.Collections.ObjectModel.Collection`1[System.Management.Automation.PSObject]","progress increased overtime"
+"System.Collections.ArrayList","13","System.Collections.ObjectModel.Collection`1[System.Management.Automation.PSObject]","progress peaked in mid"
